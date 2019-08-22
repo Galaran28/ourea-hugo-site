@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Ourea Solutions"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
@@ -17,8 +17,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Ourea Solutions"
+  description = "Your business, solved"
 
   [params.style]
     #background = "secondary"
