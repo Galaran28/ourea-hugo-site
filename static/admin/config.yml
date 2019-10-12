@@ -14,6 +14,10 @@ collections:
     fields:
       - {label: "Title" , name: "title" , widget: "string"}
       - {label: "Weight" , name: "weight" , widget: "number", valueType: "int"}
-      - {label: "Icon" , name: "icon" , widget: "string"}
-      - {label: "Link" , name: "url" , widget: "string"}
+      - label: "Icon" 
+        name: "asset" 
+        widget: "object" 
+        fields: 
+        - {label: "Font Awesome Icon" , name: "icon" , widget: "string"}
+        - {label: "Link" , name: "url" , widget: "string", required: false}
       - {label: "Text" , name: "body" , widget: "markdown"}
