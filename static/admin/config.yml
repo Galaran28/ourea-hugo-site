@@ -10,7 +10,6 @@ collections:
     label: "Services"
     folder: "content/_index/services-list"
     create: true
-    #slug:
     fields:
       - {label: "Title" , name: "title" , widget: "string"}
       - {label: "Weight" , name: "weight" , widget: "number", valueType: "int"}
