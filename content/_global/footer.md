@@ -1,16 +1,16 @@
 +++
 fragment = "footer"
-#disabled = true
+disabled = true
 date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+#menu_title = "Link Title"
 
 [asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
+  title = "Ourea Solutions"
+  image = "logo.png"
+  text = "Your business, solved"
   url = "#"
 +++
 
