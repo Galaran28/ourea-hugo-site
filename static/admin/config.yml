@@ -10,6 +10,7 @@ collections:
     label: "Services"
     folder: "content/_index/services-list"
     create: true
+    summary: "{{title}} : {{weight}}"
     fields:
       - {label: "Title" , name: "title" , widget: "string"}
       - {label: "Weight" , name: "weight" , widget: "number", valueType: "int"}
