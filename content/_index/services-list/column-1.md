@@ -2,7 +2,7 @@
 title: Backups
 weight: 10
 asset:
-  icon: fab fa-save
+  icon: fas fa-save
   url: '#backup-header'
 ---
 
