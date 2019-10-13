@@ -34,9 +34,9 @@ netlify = true
   text = "Your Email *"
   error = "Please enter your email address" # defaults to theme default
 
-[fields.phone]
-  text = "Your Phone *"
-  error = "Please enter your phone number" # defaults to theme default
+#[fields.phone]
+#  text = "Your Phone *"
+#  error = "Please enter your phone number" # defaults to theme default
 
 [fields.message]
   text = "Your Message *"
