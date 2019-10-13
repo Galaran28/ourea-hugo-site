@@ -59,15 +59,15 @@ lastmod = ["lastmod", ":git", "date"]
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
-[[menu.main]]
-  url = "/"
-  name = "Home"
-  weight = 10
+#[[menu.main]]
+#  url = "/"
+#  name = "Home"
+#  weight = 10
 
-[[menu.main]]
-  url = "#backup-header"
-  name = "Backups"
-  weight = 20
+#[[menu.main]]
+#  url = "#backup-header"
+#  name = "Backups"
+#  weight = 20
 
 [[menu.main]]
   url = "#contact"
