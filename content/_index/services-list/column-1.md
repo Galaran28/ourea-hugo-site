@@ -3,7 +3,7 @@ title: Backups
 weight: 10
 asset:
   icon: fas fa-save
-  url: '#backup-header'
+  url: ''
 ---
 
 You hope you never need them, but backups are your last line of defense.
