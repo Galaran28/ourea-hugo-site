@@ -1,8 +1,8 @@
 ---
-title: Custom Software
+title: Reliable Internet
 weight: 30
 asset:
   icon: fas fa-code
-  url: ''
+  url: ""
 ---
-Wouldn't it be great if Product A talked to Product B? Or maybe, the thing you need just doesn't seem to exist. If that thing is a new puppy, we're not your guy, but if it runs on electricity we just might have what you need.
+Fiber is the future, allowing your businenss to operate at the speed of light. Contact us for a quote, it might even beat your current cable provider.
