@@ -1,6 +1,6 @@
 ---
 title: Reliable Internet
-weight: 30
+weight: 5
 asset:
   icon: fas fa-bolt
   url: ""
