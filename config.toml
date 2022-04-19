@@ -4,10 +4,10 @@ languageCode = "en-us"
 title = "Ourea Solutions"
 theme = "syna"
 enableGitInfo = true
-version = "0.15.0"
+version = "0.17.4"
 
 # Google Analytics tracking
-googleAnalytics = ""
+googleAnalytics = "UA-221930294-1"
 
 [outputs]
   home = ["HTML", "JSON"]
